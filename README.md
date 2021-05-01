@@ -34,7 +34,3 @@ This scraper only scrapes product from the first page of search results
 1. Get data from [search_results_output.jsonl](search_results_output.jsonl)
 
 __ tao @ 2021 05 01 __
-    "price": "$472.00",
-    "search_url": "https://www.amazon.com/s?k=laptops"
-}
-```
